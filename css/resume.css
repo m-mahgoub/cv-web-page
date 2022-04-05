@@ -7,7 +7,7 @@ body {
   font-family: 'Open Sans', serif;
   padding-top: 54px;
   /*color: #868e96; */
-  color: #6c737a;
+  color: #555a5e;
 
 }
 
@@ -28,17 +28,20 @@ h6 {
   color: #343a40; }
 
 h1 {
-  font-size: 5rem;
+  font-size: 3rem;
   line-height: 5.5rem; }
 
 h2 {
-  font-size: 3.5rem; }
+  font-size: 2.5rem; }
+
+h3 {
+  font-size: 2rem; }
 
 .subheading {
   text-transform: uppercase;
   font-weight: 500;
   font-family: 'Saira Extra Condensed', serif;
-  font-size: 1.35rem; }
+  font-size: 1.75rem; }
 
 .list-social-icons a {
   color: #495057; }
@@ -111,6 +114,10 @@ section.resume-section {
 
 .text-primary {
   color: #BD5D38 !important; }
+
+.text-date {
+  font-size: 1.25rem;
+  font-weight: bold; }
 
 a {
   color: #BD5D38; }
