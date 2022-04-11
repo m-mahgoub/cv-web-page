@@ -1,3 +1,3 @@
 ## My Personal Resume Web Page
 
-(https://www.momahgoub.com){:target="_blank"}
+[momahgoub.com](https://www.momahgoub.com){:target="_blank"}
